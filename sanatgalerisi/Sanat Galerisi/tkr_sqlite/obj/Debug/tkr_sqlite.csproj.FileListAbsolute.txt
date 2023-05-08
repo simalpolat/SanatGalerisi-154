@@ -1,0 +1,118 @@
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.exe.config
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.exe
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.pdb
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form1.resources
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form2.resources
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form3.resources
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form4.resources
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form5.resources
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Properties.Resources.resources
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CopyComplete
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.exe
+C:\Users\MSI\Desktop\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.pdb
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.exe.config
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.exe
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.pdb
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form1.resources
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form2.resources
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form3.resources
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form4.resources
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form5.resources
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Properties.Resources.resources
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CopyComplete
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.exe
+C:\Users\MSI\Desktop\Atölye 01.11.2022 ve sonraki uygulamalar\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.pdb
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.exe.config
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.exe
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\tkr_sqlite.pdb
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.dll
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.xml
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.AssemblyReference.cache
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.SuggestedBindingRedirects.cache
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form1.resources
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form2.resources
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form3.resources
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form4.resources
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Form5.resources
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.Properties.Resources.resources
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.GenerateResource.cache
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CopyComplete
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.exe
+C:\Users\hikme\OneDrive\Masaüstü\Şimal\Sqlite\tkr_sqlite\tkr_sqlite\obj\Debug\tkr_sqlite.pdb
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\tkr_sqlite.exe.config
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\tkr_sqlite.exe
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\tkr_sqlite.pdb
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.dll
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.xml
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.xml
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.AssemblyReference.cache
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.SuggestedBindingRedirects.cache
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form1.resources
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form2.resources
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form3.resources
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form4.resources
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form5.resources
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Properties.Resources.resources
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.GenerateResource.cache
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CoreCompileInputs.cache
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CopyComplete
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.exe
+C:\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.pdb
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\tkr_sqlite.exe.config
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\tkr_sqlite.exe
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\tkr_sqlite.pdb
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.dll
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\bin\Debug\System.Data.SQLite.xml
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form1.resources
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form2.resources
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Form5.resources
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.Properties.Resources.resources
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.csproj.CopyComplete
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.exe
+C:\Users\MSI\Desktop\sanatgalerisi\Sanat Galerisi\tkr_sqlite\obj\Debug\tkr_sqlite.pdb
